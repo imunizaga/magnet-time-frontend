@@ -1,0 +1,20 @@
+@charset 'UTF-8';
+
+.ticket {
+}
+
+.ticket.active a{
+    color: white;
+}
+
+.ticket-form {
+    position: relative;
+}
+
+.ticket-form select{
+    width: inherit;
+}
+
+.chosen-choices {
+    border-radius: 3px;
+}
