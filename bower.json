@@ -1,0 +1,25 @@
+{
+  "name": "magnet-time-frontend",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thagat/magnet-time-frontend",
+  "authors": [
+    "Ignacio Munizaga <ignacio.munizaga.t@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "directory": "js/vendor",
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "bootstrap": "~3.0.0",
+    "underscore": "~1.5.2",
+    "html5shiv": "~3.7.0",
+    "respond": "~1.3.0"
+  }
+}
